@@ -1,12 +1,12 @@
-function takeANumber (katzDeliLine, name) {
-//   var newStr = '';
-//   katzDeliLine.push(name);
+function takeANumber {
+  var newStr = '';
+  katzDeliLine.push(name);
   
-//   newStr = "Welcome, " + name + ". You are number " + katzDeliLine.length + " in line."
+  newStr = "Welcome, " + name + ". You are number " + katzDeliLine.length + " in line."
   
 
-//   return newStr;
-// }
+  return newStr;
+}
 
 // function nowServing(katzDeliLine) {
 
