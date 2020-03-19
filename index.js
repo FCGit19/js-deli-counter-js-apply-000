@@ -13,7 +13,6 @@ console.log(takeANumber());
 console.log(takeANumber());
 
 
-
 function takeANumber (katzDeliLine, name) {
   var newStr = '';
   katzDeliLine.push(name);
