@@ -5,7 +5,6 @@ function takeANumber() {
   number++;
   var newStr = "Welcome. You are number " + number + " in line."
   
-
   return newStr;
 }
 console.log(takeANumber());
